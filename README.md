@@ -1,2 +1,2 @@
 # nginx-rpi
-Nginx built from src-deb
+Nginx built from deb-src
